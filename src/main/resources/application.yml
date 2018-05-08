@@ -19,5 +19,4 @@ springfox:
         path: /v2/api-docs
 infinispan:
   remote:
-    serverList: datagrid-demo-hotrod:11222
-
+    server-list: 'datagrid-demo-hotrod.datagrid-demo.svc:11333' 
